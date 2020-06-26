@@ -1,0 +1,22 @@
+{
+  "name": "SampleProject",
+  "version": "0.1.0",
+  "summary": "A short description of SampleProject.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/aravindg09/SampleProject",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "aravindg09": "aravindg@yupptv.com"
+  },
+  "source": {
+    "git": "https://github.com/aravindg09/SampleProject.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SampleProject/Classes/**/*"
+}

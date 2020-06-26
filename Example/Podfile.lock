@@ -1,0 +1,16 @@
+PODS:
+  - SampleProject (0.1.0)
+
+DEPENDENCIES:
+  - SampleProject (from `../`)
+
+EXTERNAL SOURCES:
+  SampleProject:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SampleProject: e99f3bb343eabf7661f502fb3ef21807655eecf8
+
+PODFILE CHECKSUM: b6b1cefc197a94435c42d99da332f8b15e768a64
+
+COCOAPODS: 1.9.3
